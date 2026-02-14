@@ -1,3 +1,9 @@
+# ARCHIPELAGO EX
+
+This fork is currently used by my Just Shapes & Beats Hint Game. You may find it on my profile if it has released yet.
+
+Currently it adds nothing, but this will be updated when `Ex` functions are added.
+
 # [Archipelago](https://archipelago.gg) ![Discord Shield](https://discordapp.com/api/guilds/731205301247803413/widget.png?style=shield) | [Install](https://github.com/ArchipelagoMW/Archipelago/releases)
 
 Archipelago provides a generic framework for developing multiworld capability for game randomizers. In all cases,
